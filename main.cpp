@@ -49,8 +49,7 @@ void luas_segitiga_siku_siku()
 void persegi_panjang()
 {
     system("CLS");
-    int p, l, opsi;
-    float luas;
+    int p, l, luas, opsi;
 
     cout << "=========================================================" << endl;
     cout << "          Program Perhitungan Luas Persegi Panjang       " << endl;
@@ -165,7 +164,7 @@ void home()
     cout << "                                                         " << endl;
     cout << "=========================================================" << endl;
     cout << "                                                         " << endl;
-    cout << "              Program Tugas Mata Kuliah DPP              " << endl;
+    cout << "              Program Tugas Mata Kuliah DDP              " << endl;
     cout << "                                                         " << endl;
     cout << "=========================================================" << endl;
     cout << "  Silahkan input opsi:                                   " << endl;
@@ -216,7 +215,7 @@ int main()
     cout << "                                                         " << endl;
     cout << "=========================================================" << endl;
     cout << "                                                         " << endl;
-    cout << "              Program Tugas Mata Kuliah DPP              " << endl;
+    cout << "              Program Tugas Mata Kuliah DDP              " << endl;
     cout << "                                                         " << endl;
     cout << "=========================================================" << endl;
     cout << "  Silahkan input opsi:                                   " << endl;
